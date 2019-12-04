@@ -1,0 +1,4 @@
+﻿Sid,145,happy
+Lucy,125,bored
+Bill,934,sad
+jim,67,sad
